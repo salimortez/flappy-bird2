@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOiAwLCAidHlwZSI6ICJjdXN0b2R5IiwgImtleSI6ICIweDAwIn0",
+    "payload": "eyJkb21haW4iOiAiZmxhcHB5LWJpcmQ1LW9uZS52ZXJjZWwuYXBwIn0",
+    "signature": "MHgwMA"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Neon Flappy",
+    "iconUrl": "https://flappy-bird5-one.vercel.app/icon.png",
+    "homeUrl": "https://flappy-bird5-one.vercel.app/",
+    "imageUrl": "https://flappy-bird5-one.vercel.app/og-image.png",
+    "buttonTitle": "Play Now",
+    "splashImageUrl": "https://flappy-bird5-one.vercel.app/og-image.png",
+    "splashBackgroundColor": "#0a0a1a"
+  }
+}
